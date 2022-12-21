@@ -1,0 +1,48 @@
+{
+
+  "project_info": {
+    "project_number": "65244956966",
+    "project_id": "pendataanshowroom-6e266",
+    "storage_bucket": "pendataanshowroom-6e266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65244956966:android:74cbe69c2916d49f2119e7",
+        "android_client_info": {
+          "package_name": "com.example.pendataanshowroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65244956966-6h2lhgl6ulop6u6el54umofufpchaeo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pendataanshowroom",
+            "certificate_hash": "7adfbccf933cd65c585079172d366d1cf02ad809"
+          }
+        },
+        {
+          "client_id": "65244956966-63jga7iffq8tarq1vradffdl274iq0c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJSIfxJJZ9TQjyRWVzAFWVWCEFzeMIRv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65244956966-63jga7iffq8tarq1vradffdl274iq0c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

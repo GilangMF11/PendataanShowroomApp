@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pendataan Showroom</string>
+    <string name="data_pemilik">Data Pemilik</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="lulusan">Lulusan</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_telp">No. Telp</string>
+    <string name="umur">Umur</string>
+    <string name="simpan">Simpan</string>
+    <string name="tampil_nama">Tampil Nama</string>
+    <string name="id">Id</string>
+    <string name="masukan_id">Masukan Id</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+
+
+    <string-array name="gender">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+</resources>
